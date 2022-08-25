@@ -1,2 +1,6 @@
-#!/bin/bash
-echo "ALX"
+echo '#!/bin/bash' > alx
+echo 'ALX School' >> alx
+echo '#!/bin/bash' > school
+echo 'The School is open' >> school
+:wq
+
