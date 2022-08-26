@@ -1,2 +1,13 @@
+<<<<<<< HEAD
 #!/bin/bash
 echo "ALX School"
+=======
+echo '#!/bin/bash' > alx
+echo 'ALX School' >> alx
+echo '#!/bin/bash' > school
+echo 'The School is open' >> school
+:wq
+echo '#!bin/bash' > alx
+echo "ALX School is so cool!" >> alx
+
+>>>>>>> 82d919a46e40708c9cc74c7608579f567a6977ce
